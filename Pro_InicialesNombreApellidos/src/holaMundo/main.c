@@ -1,3 +1,4 @@
-ovid main(void){
-    printf "Esto es una rama";
+void main(void){
+    printf "Esto ya no lo es";
+    
 }
